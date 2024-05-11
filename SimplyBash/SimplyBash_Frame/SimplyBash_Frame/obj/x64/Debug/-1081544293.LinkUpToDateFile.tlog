@@ -1,0 +1,1 @@
+ar -rsc  "/home/GameServer/SimplyBash_cpp/SimplyBash_Frame/bin/x64/Debug/libSimplyBash_Frame.a" /home/GameServer/SimplyBash_cpp/SimplyBash_Frame/obj/x64/Debug/SimplyBash.o
